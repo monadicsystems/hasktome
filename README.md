@@ -1,4 +1,4 @@
-# Haddock [![CI][CI badge]][CI page] [![Hackage][Hackage badge]][Hackage page]
+# Hasktome [![CI][CI badge]][CI page] [![Hackage][Hackage badge]][Hackage page]
 
 Haddock is the standard tool for generating documentation from Haskell code.
 Full documentation about Haddock itself can be found in the `doc/` subdirectory,
